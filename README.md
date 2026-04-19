@@ -53,6 +53,4 @@ This project heavily utilizes Data Analysis Expressions (DAX) to drive the analy
 ## 🤝 Let's Connect
 Feel free to reach out if you want to discuss this project, data architecture, or BI development!
 
-* **LinkedIn:** *(<www.linkedin.com/in/
-kunal-k-73762431a>
-)*
+* **LinkedIn:** *(<www.linkedin.com/in/kunal-k-73762431a>)*
