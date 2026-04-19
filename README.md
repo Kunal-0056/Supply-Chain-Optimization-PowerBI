@@ -6,7 +6,9 @@ An interactive, enterprise-grade Power BI dashboard designed to help supply chai
 ---
 
 ## 📸 Dashboard Preview
-(<<img width="1920" height="1020" alt="Screenshot 2026-04-19 114755" src="https://github.com/user-attachments/assets/81fc26b0-240c-4103-9ac2-45e1e7df0a5b" />
+(<<img width="1920" height="1020" alt="Screenshot 2026-04-19 114755" src="https://github.com/user-attachments/assets/81fc26b0-240c-4103-9ac2-45e1e7df0a5b" /><img width="1920" height="1020" alt="Screenshot 2026-04-19 114822" src="https://github.com/user-attachments/assets/1eaaa060-eb9d-404d-b7c0-66f9bfcc7dbd" /><img width="1920" height="1020" alt="Screenshot 2026-04-19 114838" src="https://github.com/user-attachments/assets/059a3404-bdc3-4b87-a7e8-eb4d86d5369f" />
+
+
 >)
 
 ---
